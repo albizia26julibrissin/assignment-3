@@ -1,0 +1,83 @@
+
+/*google fonts integrate*/
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+h1 h2 h3 h4 h5 h6{
+	font-family: 'Quicksand', sans-serif;}
+
+a span p input { font-family: 'Roboto', sans-serif } 
+.header{
+	width: 100%;
+	background-color: #fff;
+	padding: 10px 10px;
+
+}
+.header span{
+	font-size: 30px;
+    font-weight: 600;
+    margin-left: 8px
+}
+.middle-part{
+	width: 100%;
+	float: left;
+	
+}
+.container{
+	width: 1140px;
+	margin: 0 auto;
+	background: white;
+	height: 700px;
+
+}
+.row1 {
+	text-align: center;
+}
+.row1 h1{ font-family: "Quicksand", sans-serif;
+		  padding-top: 8px;}
+.row1 p{font-family: "Roboto", sans-serif;
+		margin-top: -9px;
+		color: #4c527d;}
+
+.upper-row{
+	padding: 40px auto
+}
+.left1{margin-top: 49px;
+	text-align: center;
+	width: 33%;
+	background-color: white;
+	float: left;
+	height: 290px;}
+.left1 h1{ font-family: "Quicksand", sans-serif;
+			font-size: 20px}
+.left1 p { font-family: "Roboto", sans-serif;
+			font-size: 13px;
+			color: #4c527d;
+			margin-top: -10px }
+
+
+.middle1{margin-top: 49px;
+	text-align: center;
+	width: 33%;
+	background-color: white;
+	float: left;
+	height: 290px;}
+.middle1 h1{ font-family: "Quicksand", sans-serif;
+			font-size: 20px}
+.middle1 p { font-family: "Roboto", sans-serif;
+			font-size: 13px;
+			color: #4c527d;
+			margin-top: -10px }
+
+
+.right1{margin-top: 49px;
+	text-align: center;
+	width: 33%;
+	background-color: white;
+	float: left;
+	height: 290px;}
+.right1 h1{ font-family: "Quicksand", sans-serif;
+			font-size: 20px}
+.right1 p { font-family: "Roboto", sans-serif;
+			font-size: 13px;
+			color: #4c527d;
+			margin-top: -10px }
